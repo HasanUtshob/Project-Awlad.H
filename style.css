@@ -226,3 +226,32 @@ iframe{
 .item-color-3{
     background-color: rgba(255, 223, 0, 0.05);
 }
+/* main section 4 style  */
+.four-item{
+    display: flex;
+    gap: 24px;
+    border: 1px solid #000000;
+    padding: 40px;
+    border-radius: 16px;
+    margin-bottom: 24px;
+}
+.four-content h1{
+    font-size: 24px;
+    font-weight: bolder;
+    color: #0D1321;
+    margin-bottom: 8px;
+}
+.four-content p{
+    font-size: 16px;
+    font-weight: normal;
+    opacity: 70%;
+    margin-bottom: 24px;
+}
+.four-content a{
+    font-size: 16px;
+    font-weight: bold;
+    color: #0D1321;
+}
+.c-last{
+    margin-bottom: 49px;
+}
